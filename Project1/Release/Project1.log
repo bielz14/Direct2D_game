@@ -1,0 +1,27 @@
+﻿  Controller.cpp
+  Game.cpp
+  Graphics.cpp
+  Level1.cpp
+  main.cpp
+main.cpp(26): warning C4101: 'Bitmap': unreferenced local variable
+main.cpp(24): warning C4101: 'hOldBitmap': unreferenced local variable
+main.cpp(22): warning C4101: 'hDC': unreferenced local variable
+main.cpp(22): warning C4101: 'hCompatibleDC': unreferenced local variable
+main.cpp(25): warning C4101: 'Rect': unreferenced local variable
+main.cpp(24): warning C4101: 'hBitmap': unreferenced local variable
+main.cpp(23): warning C4101: 'PaintStruct': unreferenced local variable
+  SpriteSheets.cpp
+SpriteSheets.cpp(58): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+SpriteSheets.cpp(59): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+SpriteSheets.cpp(103): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+SpriteSheets.cpp(137): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+SpriteSheets.cpp(218): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+SpriteSheets.cpp(278): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+SpriteSheets.cpp(279): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+SpriteSheets.cpp(334): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+SpriteSheets.cpp(335): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+  Generating code
+  All 41 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Руха\Documents\Visual Studio 2015\Projects\direct2d\Release\Project1.exe
+  Project1.vcxproj -> C:\Users\Руха\Documents\Visual Studio 2015\Projects\direct2d\Release\Project1.pdb (Full PDB)
